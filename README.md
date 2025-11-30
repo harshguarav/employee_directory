@@ -23,9 +23,9 @@ A modern, full-stack employee directory application built with React, Express, P
 ![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20145637.png)
 ![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20145703.png)
 ##ScreenShot when adding employees
-![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20190030.png)
+![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-30%20190030.png)
 ##ScreenShot when searching by name
-![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20190103.png)
+![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-30%20190103.png)
 
 
 ## 🛠️ Tech Stack
