@@ -13,6 +13,21 @@ A modern, full-stack employee directory application built with React, Express, P
 - **Database Persistence** - PostgreSQL database with Prisma ORM
 - **RESTful API** - Express backend with clean API endpoints
 
+## ScreenShot of website
+
+![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20144835.png)
+![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20144905.png)
+![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20144954.png)
+##ScreenShot in white Theme
+![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20145255.png)
+![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20145637.png)
+![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20145703.png)
+##ScreenShot when adding employees
+![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20190030.png)
+##ScreenShot when searching by name
+![Screenshot](https://github.com/harshguarav/employee_directory/blob/main/screenshots/Screenshot%202025-11-24%20190103.png)
+
+
 ## 🛠️ Tech Stack
 
 ### Frontend
