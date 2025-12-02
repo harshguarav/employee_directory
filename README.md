@@ -126,8 +126,14 @@ employee-directory/
 │   │   └── employeeService.js
 │   └── App.jsx             # Root component
 ├── .env                    # Environment variables
+├── COMPONENTS.md           # Component documentation
 └── package.json
 ```
+
+## 📚 Documentation
+
+- **[COMPONENTS.md](./COMPONENTS.md)** - Detailed documentation for all React components, including props, examples, and usage patterns
+- **[style.md](./style.md)** - Design system and styling guidelines
 
 ## 🔌 API Endpoints
 
